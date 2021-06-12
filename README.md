@@ -1,6 +1,6 @@
 # Hi there, I'm - Siddiky 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fsiddiky-portfolio)](https://siddiky-portfolio.web.app/)
+[![Website](https://img.shields.io/website?label=siddiky-portfolio&style=for-the-badge&url=https://siddiky-portfolio.web.app/)](https://siddiky-portfolio.web.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Siddiky?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/NA_Siddiky)
 
 ## I'm a, 
