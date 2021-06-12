@@ -1,4 +1,9 @@
-# Hello, I am "Nur E Alom Siddiky" 😊
+# Hi there, I'm - Siddiky 
+
+•	I am a student of master’s and research on the web and cybersecurity.
+•	Experienced job holder for more than 2 years.
+•	Fully professional web developer.
+
 
 ### MERN Stack Developer. 
 ### Experienced in web development.
