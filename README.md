@@ -1,7 +1,12 @@
 # Hi there, I'm - Siddiky 👋
 
 [![Website](https://img.shields.io/website?label=siddiky-portfolio&style=for-the-badge&url=https://siddiky-portfolio.web.app/)](https://siddiky-portfolio.web.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Siddiky?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/NA_Siddiky)
+
+[![Google Drive](https://img.shields.io/website?label=Download-Resume&style=for-the-badge&url=https://drive.google.com/file/d/1MD7KtIoMcxQtXTMzjNUkHx3ow49S_k8_/view)](https://drive.google.com/file/d/1MD7KtIoMcxQtXTMzjNUkHx3ow49S_k8_/view)
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/NA_Siddiky?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/NA_Siddiky)
+
 
 ## I'm a, 
 ### • MERN Stack Developer. 
