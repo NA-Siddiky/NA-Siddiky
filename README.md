@@ -1,12 +1,13 @@
-# Hi there, I'm - Siddiky 
+# Hi there, I'm - Siddiky 👋
 
-### MERN Stack Developer. 
-### Experienced in web development.
-### Working on multiple projects.
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://siddiky-portfolio.web.app/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/NA_Siddiky)
 
-#### •	I am a student of master’s and research on the web and cybersecurity.
-#### •	Experienced job holder for more than 2 years.
-#### •	Fully professional web developer.
+## I'm a, 
+### • MERN Stack Developer. 
+### • Experienced in web development.
+### • Working on multiple projects.
+### • & a student of master’s and research on the web and cybersecurity.
 
 [View Portfolio](https://siddiky-portfolio.web.app/) , [Download Resume](https://drive.google.com/file/d/1MD7KtIoMcxQtXTMzjNUkHx3ow49S_k8_/view)
 
