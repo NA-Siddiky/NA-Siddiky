@@ -1,13 +1,12 @@
 # Hi there, I'm - Siddiky 
 
-## •	I am a student of master’s and research on the web and cybersecurity.
-## •	Experienced job holder for more than 2 years.
-## •	Fully professional web developer.
-
-
 ### MERN Stack Developer. 
 ### Experienced in web development.
 ### Working on multiple projects.
+
+#### •	I am a student of master’s and research on the web and cybersecurity.
+#### •	Experienced job holder for more than 2 years.
+#### •	Fully professional web developer.
 
 [View Portfolio](https://siddiky-portfolio.web.app/) , [Download Resume](https://drive.google.com/file/d/1MD7KtIoMcxQtXTMzjNUkHx3ow49S_k8_/view)
 
