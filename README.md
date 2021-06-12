@@ -2,12 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=siddiky-portfolio&style=for-the-badge&url=https://siddiky-portfolio.web.app/)](https://siddiky-portfolio.web.app/) [![Google Drive](https://img.shields.io/website?label=Download-Resume&style=for-the-badge&url=https://drive.google.com/file/d/1MD7KtIoMcxQtXTMzjNUkHx3ow49S_k8_/view)](https://drive.google.com/file/d/1MD7KtIoMcxQtXTMzjNUkHx3ow49S_k8_/view) [![Twitter Follow](https://img.shields.io/twitter/follow/NA_Siddiky?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/NA_Siddiky)
 
-
-## I'm a MERN Stack Developer. 
-### • Professional web developer with more than two years of working experience.
-### • Contribute and currently Working on multiple projects.
-### • A student of CSE in masters and research on the web and cybersecurity.
-
 ### Connect with me: 
 [<img align="left" alt="Siddiky" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Siddiky | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][Skype]
@@ -17,7 +11,12 @@
 [<img align="left" alt="Siddiky | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 
-<br />
+## I'm a MERN Stack Developer. 
+### • Professional web developer with more than two years of working experience.
+### • Contribute and currently Working on multiple projects.
+### • A student of CSE in masters and research on the web and cybersecurity.
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=NA-Siddiky&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
