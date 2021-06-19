@@ -1,10 +1,10 @@
-[![Website](https://img.shields.io/website?label=visit-portfolio&style=for-the-badge&url=https://siddiky-portfolio.web.app/)](https://siddiky-portfolio.web.app/) [![Google Drive](https://img.shields.io/website?label=View-Resume&style=for-the-badge&url=https://drive.google.com/file/d/1MD7KtIoMcxQtXTMzjNUkHx3ow49S_k8_/view)](https://drive.google.com/file/d/1MD7KtIoMcxQtXTMzjNUkHx3ow49S_k8_/view)
-
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/NA_Siddiky?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/NA_Siddiky) -->
-
 # Hi there, I'm - Siddiky 👋
 
 ## I'm a MERN Stack Developer.
+
+[![Website](https://img.shields.io/website?label=visit-portfolio&style=for-the-badge&url=https://siddiky-portfolio.web.app/)](https://siddiky-portfolio.web.app/) [![Google Drive](https://img.shields.io/website?label=View-Resume&style=for-the-badge&url=https://drive.google.com/file/d/1MD7KtIoMcxQtXTMzjNUkHx3ow49S_k8_/view)](https://drive.google.com/file/d/1MD7KtIoMcxQtXTMzjNUkHx3ow49S_k8_/view)
+
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/NA_Siddiky?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/NA_Siddiky) -->
 
 ### • Professional web developer with more than two years of working experience.
 
@@ -26,7 +26,9 @@
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+
 [<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][jsplaylist]
@@ -37,11 +39,6 @@
 
 [<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />][webdevplaylist]
 
-<!-- [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist] -->
-<!-- [<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist] -->
-
-<!-- [<img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist] -->
-
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 
 [<img align="left" alt="Git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][webdevplaylist]
@@ -49,6 +46,11 @@
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
 [<img align="left" alt="firebase" width="30px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg/>][webdevplaylist]
+
+<!-- [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist] -->
+<!-- [<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist] -->
+
+<!-- [<img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist] -->
 
 <br />
 <br />
