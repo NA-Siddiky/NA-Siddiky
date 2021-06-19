@@ -1,10 +1,10 @@
-# Hi there, I'm - Siddiky 👋
-
-## I'm a MERN Stack Developer.
-
 [![Website](https://img.shields.io/website?label=visit-portfolio&style=for-the-badge&url=https://siddiky-portfolio.web.app/)](https://siddiky-portfolio.web.app/) [![Google Drive](https://img.shields.io/website?label=View-Resume&style=for-the-badge&url=https://drive.google.com/file/d/1MD7KtIoMcxQtXTMzjNUkHx3ow49S_k8_/view)](https://drive.google.com/file/d/1MD7KtIoMcxQtXTMzjNUkHx3ow49S_k8_/view)
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/NA_Siddiky?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/NA_Siddiky) -->
+
+# Hi there, I'm - Siddiky 👋
+
+## A MERN Stack Developer.
 
 ### • Professional web developer with more than two years of working experience.
 
@@ -45,8 +45,6 @@
 
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
-[<img align="left" alt="firebase" width="30px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg/>][webdevplaylist]
-
 <!-- [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist] -->
 <!-- [<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist] -->
 
@@ -57,9 +55,8 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NA-Siddiky&" alt="NA-Siddiky" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NA-Siddiky&show_icons=true&locale=en&layout=compact" alt="NA-Siddiky"/></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NA-Siddiky&show_icons=true&locale=en" alt="NA-Siddiky" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NA-Siddiky&" alt="NA-Siddiky" /></p>
 
 [website]: https://siddiky-portfolio.web.app/
 [skype]: https://join.skype.com/invite/B8jnUqV8Ie6n
