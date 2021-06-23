@@ -10,6 +10,12 @@
 ### • Contribute and currently Working on multiple projects.
 ### • A student of CSE in masters and research on the web and cybersecurity.
 
+### 📕 Blog Posts
+- [Basic-Web Programing : Handbook on Web Programing](https://siddiky.medium.com/handbook-on-web-programing-ea440f7692f3)
+- [Programing with JavaScript : Concepts of “JavaScript”](https://siddiky.medium.com/handbook-on-web-programing-ea440f7692f3)
+- [Features of React : Foundation of “React”](https://siddiky.medium.com/foundation-of-react-4eca195abc26)
+<br/>
+
 ### Connect with me:
 
 [<img align="left" alt="Siddiky" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
