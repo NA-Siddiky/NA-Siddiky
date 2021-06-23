@@ -60,7 +60,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=NA-Siddiky&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)       ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NA-Siddiky&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NA-Siddiky)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NA-Siddiky&" alt="NA-Siddiky" /></p>
 
 
 [website]: https://siddiky-portfolio.web.app/
