@@ -7,9 +7,7 @@
 ## A MERN Stack Developer.
 
 ### • Professional web developer with more than two years of working experience.
-
 ### • Contribute and currently Working on multiple projects.
-
 ### • A student of CSE in masters and research on the web and cybersecurity.
 
 ### Connect with me:
