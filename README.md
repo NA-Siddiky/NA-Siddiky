@@ -12,9 +12,8 @@
 
 ### 📕 Blog Posts
 - [Basic-Web Programing : Handbook on Web Programing](https://siddiky.medium.com/handbook-on-web-programing-ea440f7692f3)
-- [Programing with JavaScript : Concepts of “JavaScript”](https://siddiky.medium.com/handbook-on-web-programing-ea440f7692f3)
+- [Programing with JavaScript : Concepts of “JavaScript”](https://siddiky.medium.com/concepts-of-javascript-1970e3dbe938)
 - [Features of React : Foundation of “React”](https://siddiky.medium.com/foundation-of-react-4eca195abc26)
-<br/>
 
 ### Connect with me:
 
