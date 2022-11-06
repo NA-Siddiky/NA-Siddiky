@@ -4,7 +4,7 @@
 
 # Hi there, I'm - Siddiky 👋
 
-## A MERN Stack Developer.
+## A Full Stack Developer.
 
 ### • Professional web developer with more than two years of working experience.
 ### • Contribute and currently Working on multiple projects.
