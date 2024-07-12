@@ -6,9 +6,9 @@
 
 ## Full Stack Developer.
 
-### • Professional web developer with more than two years of working experience.
+### • Professional web developer with more than four years of working experience.
 ### • Contribute and currently Working on multiple projects.
-### • A student of CSE in masters and research on the web and cybersecurity.
+### • A student of CSE in masters and research on the web and AI.
 
 ### 📕 Blog Posts
 - [Basic-Web Programing : Handbook on Web Programing](https://siddiky.medium.com/handbook-on-web-programing-ea440f7692f3)
